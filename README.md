@@ -22,6 +22,9 @@ _This will also be italic_
 **This text will be bold**
 __This will also be bold__
 
+![GitHub Logo](/images_folder/InstituteDesktopBackground_v1_0919160.jpg)
+Format: ![Alt Text](url)
+
 
 http://github.com - automatic!
 [GitHub](http://github.com)
